@@ -1,4 +1,6 @@
-# Everything You Need to Know About PvZ Fusion 2.7: A Deep Dive
+## 📥 [𝓓𝓸𝔀𝓷𝓵𝓸𝓪𝓭 PvZ Fusion 2.7 𝓐𝓟𝓚](https://tinyurl.com/5ewj3uzn)
+
+<img width="300" height="169" alt="image" src="https://github.com/user-attachments/assets/ae4bed6a-86ff-49f2-9e75-531d5a420f10" />
 
 ## Introduction to PvZ Fusion 2.7 𝓐𝓟𝓚 🌱💥
 
